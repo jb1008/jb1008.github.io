@@ -1,7 +1,33 @@
-h1{
-    text-align: center;
-    color: gold;
-    font-size: 60px;
-    font-family: Revamped-X3q1a;
+body {
+   
+    background-color: rgb(0, 148, 141);
+    background-size: cover;
     
+}
+#water {
+    background-color: lightskyblue;
+    width: 33.33%;
+    float: left;
+    height: 500px;
+}
+
+#temperature {
+    background-color: rgb(245, 18, 18);
+    width: 33.33%;
+    float: right;
+    height: 500px;
+}
+
+#soilwater {
+    background-color: rgb(35, 0, 131);
+    width: 33.33%;
+    margin: 0 auto;
+    height: 500px;
+}
+
+#lights {
+    background-color: rgb(165, 162, 0);
+    width: 33.33%;
+    float: left;
+    height: 500px;
 }
