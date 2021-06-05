@@ -4,17 +4,11 @@ body {
     background-size: cover;
     
 }
-#water {
-    background-color: lightskyblue;
-    width: 33.33%;
-    float: left;
-    height: 500px;
-}
 
 #temperature {
     background-color: rgb(245, 18, 18);
     width: 33.33%;
-    float: right;
+    float: left;
     height: 500px;
 }
 
@@ -28,6 +22,6 @@ body {
 #lights {
     background-color: rgb(165, 162, 0);
     width: 33.33%;
-    float: left;
+    float: right;
     height: 500px;
 }
